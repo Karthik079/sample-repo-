@@ -5,3 +5,5 @@ print("This script demonstrates basic print functionality.")
 
 print("Enjoy coding!")
 print("Happy coding!")
+print("Keep learning!")
+print("Stay curious!")
